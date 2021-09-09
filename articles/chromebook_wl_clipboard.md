@@ -2,7 +2,7 @@
 
 aptからインストールすると古いみたいなので、nixからインストールするといい
 
-```
+```shell
 nix-env -i wl-clipboard
 ```
 
